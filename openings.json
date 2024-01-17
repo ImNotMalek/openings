@@ -1,12 +1,12 @@
 [
   {
     "link_song": "./src/game/Audios/Opening1.mp3",
-    "jawaban": "Naruto",
+    "jawaban": ["Naruto", "One Piece"],
     "artist": "Rocks"
   },
   {
     "link_song": "./src/game/Audios/Opening1.mp3",
-    "jawaban": "Naruto",
+    "jawaban": ["Naruto", "One Piece"],
     "artist": "Blue Bird"
   }
 ]
